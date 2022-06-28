@@ -6,3 +6,4 @@ Zemin Sınıfı: Zeminin x ve y düzlemi olarak bölünmesi
 Savaş Sınıfı: Oyuncuların istediği noktayı seçtiği ve seçilen noktaya göre oyunun devam ettiği sınıf
 
 
+
