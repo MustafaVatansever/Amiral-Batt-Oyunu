@@ -4,6 +4,7 @@ Kullanıcı Sınıfı: Oyunu oynayan kişilerin olduğu sınıf
 Gemi Sınıfı: Gemi nesnelerinin olduğu ve zemin sınıfında yerleştirilme işleminin yapıldığı sınıf
 Zemin Sınıfı: Zeminin x ve y düzlemi olarak bölünmesi
 Savaş Sınıfı: Oyuncuların istediği noktayı seçtiği ve seçilen noktaya göre oyunun devam ettiği sınıf
+j
 
 
 
